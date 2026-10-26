@@ -1,0 +1,10 @@
+
+.git
+.github
+vendor/
+bin/
+*.exe
+*.test
+*.out
+Dockerfile
+.dockerignore
